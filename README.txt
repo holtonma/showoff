@@ -63,6 +63,17 @@ $ showoff static pdf
 
 Which will generate a file called <name>.pdf where <name> is the name of the subdirectory.
 
+  =========================
+  # Developer information
+  =========================
+  In order to make changes to this project:
+  a. git clone http://github…..
+  b. cd into directory you just cloned
+  c. make sure gm gem is installed (sudo gem install mg)
+  d. rake:test (or rake -T to make sure rake test is available)
+  e. make changes
+  f. fork this repository
+  
 
 Slide Format
 ====================
